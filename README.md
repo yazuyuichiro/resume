@@ -62,4 +62,3 @@
 | CPU | 12th Gen Intel(R) Core(TM) i5-12400 |
 | RAM | 16GB |
 | GPU | GeForceRTX3060 |
-# resume
