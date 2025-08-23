@@ -32,17 +32,18 @@
 
 | カテゴリ | スキル | 実務経験年数 |
 |-------------|-------------|--------------|
-| プログラミング言語 | Python | 3年 |
+| プログラミング言語 | Python | 5年 |
 | | SQL Server | 3年 |
 | | HTML | 2年 |
 | | GAS | 1年未満 |
-| ライブラリ | データ分析系全般(pandas, numpy, sklearn,,,) | 3年 |
+| ライブラリ | データ分析系全般(pandas, numpy, sklearn,,,) | 5年 |
 | | スクレイピング系(requests, bs4,,,) | 2年 |
-|  | openai | 1年 |
+|  | openai | 2年 |
 | ツール | Office系 | 8年 |
 | | Dify | 1年未満 |
 | | Stable Diffusion    | 1年未満 |
-| LLM | ChatGPT（有料） | 1年 |
+| LLM | ChatGPT（有料） | 2年 |
+| | Gemini（有料） | 1年 |
 
 
 ## 職務経歴サマリ
