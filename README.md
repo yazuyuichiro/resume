@@ -48,7 +48,7 @@
 | | Stable Diffusion | 1年 |
 | LLM | ChatGPT（有料） | 3年 |
 | | Gemini（有料） | 2年 |
-| | Claude | 2年 |
+| | Claude（有料） | 2年 |
 
 
 ## 職務経歴サマリ
