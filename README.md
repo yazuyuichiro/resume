@@ -21,6 +21,7 @@
     - 対象者のレベルや目的に合わせた研修設計（カリキュラム・教材・演習の作成）
 
 何かお力になれることがあればお気軽にご連絡ください。
+副業として業務委託のご相談も可能です（週10〜15時間目安、フルリモート対応）。
 
 
 ## 基本データ
@@ -32,6 +33,8 @@
 | 所在地 | 兵庫県神戸市 |
 | 学歴 | 関西学院大学 理工学部 数理科学科（2017年3月卒） |
 | github | [@yazuyuichiro](https://github.com/yazuyuichiro) |
+| 個人開発サイト | [yason-eng](https://yason-eng.com/) |
+| YouTube | [@yason_eng](https://www.youtube.com/@yason_eng) |
 
 
 ## スキルサマリ
@@ -39,8 +42,9 @@
 | カテゴリ | スキル | 実務経験年数 |
 |-------------|-------------|--------------|
 | プログラミング言語 | Python | 5年 |
-| | SQL Server | 4年 |
+| | SQL（SQL Server / BigQuery） | 4年 |
 | | HTML | 2年 |
+| | JavaScript / TypeScript | 個人開発（yason-eng）で使用 |
 | | GAS | 2年 |
 | | Excel VBA | 3年 |
 | ライブラリ・FW | データ分析系全般（pandas, numpy, sklearn 等） | 5年 |
